@@ -1,0 +1,8 @@
+ready/
+*.html
+*.sublime-project
+*.sublime-workspace
+*.pyc
+*.psd
+~*
+local/
